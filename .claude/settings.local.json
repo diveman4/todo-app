@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(taskkill //F //PID 40292)",
+      "Bash(git add:*)"
+    ]
+  }
+}
